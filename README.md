@@ -116,28 +116,33 @@ Lysm, idiot.🧿😭🫂💌”
     <button onclick="nextPage(3)">Next ➡️</button>
 </div>
 
-<!-- 🎥 PAGE 3 -->
+<!-- PAGE 3 -->
 <div class="page" id="p3">
     <h2>Our Memories 🎥</h2>
-    <video src="video1.mp4" controls width="300"></video>
+
+    <video controls width="300">
+        <source src="video1.mp4" type="video/mp4">
+    </video>
+
     <button onclick="nextPage(4)">Next ➡️</button>
 </div>
 
-<!-- ❓ PAGE 4 -->
+<!-- PAGE 4 -->
 <div class="page" id="p4">
     <h2>Do you want a surprise gift? 🎁</h2>
-    
+
     <div>
         <button onclick="sayNo()">No 😢</button>
         <button onclick="nextPage(5)">Yes ❤️</button>
     </div>
+
     <div>
-        <img src="photo4.jpg"
-width="120">
+        <img src="photo4.jpg" width="120">
     </div>
 
     <p id="msg"></p>
 </div>
+
 
 <!-- 🔐 PASSWORD -->
 <div class="page" id="p5">
