@@ -121,7 +121,7 @@ Lysm, idiot.🧿😭🫂💌”
     <h2>Our Memories 🎥</h2>
 
     <video controls width="300">
-        <source src="video1.mp4" type="video/mp4">
+        <source src="./video1.mp4" type="video/mp4">
     </video>
 
     <button onclick="nextPage(4)">Next ➡️</button>
@@ -137,7 +137,7 @@ Lysm, idiot.🧿😭🫂💌”
     </div>
 
     <div>
-        <img src="photo4.jpg" width="120">
+        <img src="./photo4.jpg" width="120">
     </div>
 
     <p id="msg"></p>
