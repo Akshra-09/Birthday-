@@ -120,8 +120,8 @@ Lysm, idiot.🧿😭🫂💌”
 <div class="page" id="p3">
     <h2>Our Memories 🎥</h2>
 
-    <video controls width="300">
-        <source src="./video1.mp4" type="video/mp4">
+    <video controls width="500">
+        <source src="video1.mp4" type="video/mp4">
     </video>
 
     <button onclick="nextPage(4)">Next ➡️</button>
@@ -137,10 +137,11 @@ Lysm, idiot.🧿😭🫂💌”
     </div>
 
     <div>
-        <img src="./photo4.jpg" width="120">
+        <img src="photo4.jpg"
+        width="120">
     </div>
-
-    <p id="msg"></p>
+<div>
+    <lp id="msg"></p>
 </div>
 
 
@@ -159,22 +160,24 @@ Lysm, idiot.🧿😭🫂💌”
         <div>
             <img src="photo5.jpg" width="120">
         </div>
-    <h2>🌸 These flowers are for you 💖</h2>
-    <p>You are more beautiful than all of them ❤️</p>
-    <button onclick="nextPage(7)">Next ➡️</button>
+    <div>
+        <h2>🌸 These flowers are for you 💖</h2>
+         <p>You are more beautiful than all of them ❤️</p>
+         <button onclick="nextPage(7)">Next          ➡️</button>
 </div>
 
 <!-- 🎬 FINAL -->
 <div class="page" id="p7">
     <h2>Final Surprise 🎬</h2>
-    <video src="final.mp4" controls width="300"></video>
+    <video src="final.mp4" 
+    controls width="500"></video>
     <button onclick="nextPage(8)">Next ➡️</button>
 </div>
 
 <!-- ❤️ END -->
 <div class="page" id="p8">
     <h2>Thank You For Everything ❤️</h2>
-    <p>I love you forever 🥹</p>
+    <p>I love you forever💗🥹</p>
 </div>
 
 <script>
