@@ -192,7 +192,7 @@ function sayNo(){
 /* PASSWORD */
 function check(){
     let p=document.getElementById("pass").value;
-    if(p==="kg123"){
+    if(p==="kg11/2005"){
         nextPage(6);
         flowers();
     } else {
