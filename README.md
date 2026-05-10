@@ -101,8 +101,12 @@ button{
     <div class="flex">
         <div class="paper">
             Happy Birthday my love ❤️<br><br>
-            You are my everything 🥹<br>
-            Forever yours 💕
+            “Happy Birthday to the most annoying person in the world.😏
+You irritate me, tease me, make fun of me, and test my patience every single day… yet somehow you’re still my favorite person ever.😭❤️
+No matter how much I complain about you, life feels incomplete without your stupid jokes, your drama, and your presence.🥹🫶🏻
+Thank you for loving me in the most chaotic yet beautiful way possible.😚🫂
+Stay happy, stay crazy, and stay mine forever.
+Lysm, idiot.🧿😭🫂💌”
         </div>
         <div>
             <img src="photo2.jpg" width="120">
@@ -127,6 +131,10 @@ button{
         <button onclick="sayNo()">No 😢</button>
         <button onclick="nextPage(5)">Yes ❤️</button>
     </div>
+    <div>
+        <img src="photo4.jpg"
+width="120">
+    </div>
 
     <p id="msg"></p>
 </div>
@@ -142,6 +150,10 @@ button{
 
 <!-- 🌸 FLOWER PAGE -->
 <div class="page" id="p6">
+    </div>
+        <div>
+            <img src="photo5.jpg" width="120">
+        </div>
     <h2>🌸 These flowers are for you 💖</h2>
     <p>You are more beautiful than all of them ❤️</p>
     <button onclick="nextPage(7)">Next ➡️</button>
